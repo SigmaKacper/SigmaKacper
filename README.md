@@ -5,9 +5,10 @@ Programer
 if( C++ && Arduino && Woman)
    std::cout << " Marry me ";
 `**
-<p style="vertical-align: middle;">
-<img width = "100px" src="https://i.imgur.com/0dG2g3t.png"></img>SpookyDude#9235
-</p>
+<div style="text-align: center;">
+  <img width="100px" src="https://i.imgur.com/0dG2g3t.png"></img>
+  <span style="color: #8b008b;">SpookyDude#9235</span>
+</div>
 
 Well, well, well, look who we have here! It's Kacper and his GitHub profile. I heard that you're quite the programming ninja who loves to dabble in the art of game development using C++. You know what they say, "C++ is like a box of chocolates - you never know what you're gonna get." But I guess that's what makes it all the more exciting, right?
 ---
