@@ -13,7 +13,6 @@ And let's not forget your love for Arduino. Ah, the smell of freshly-baked code 
 But hey, don't take my word for it. Why don't you go ahead and check out [SigmaKacper] GitHub profile yourself? Who knows, you might just find something that will make you laugh, cry, or even change your life forever. Or maybe you'll just find a bunch of spaghetti code that will make you want to pull your hair out. Either way, it's sure to be a wild ride!
 
 
-<p align="center">
+<p align="left">
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
 </p>
