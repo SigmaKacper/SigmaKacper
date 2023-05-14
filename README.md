@@ -12,9 +12,6 @@ And let's not forget your love for Arduino. Ah, the smell of freshly-baked code 
 
 But hey, don't take my word for it. Why don't you go ahead and check out [SigmaKacper] GitHub profile yourself? Who knows, you might just find something that will make you laugh, cry, or even change your life forever. Or maybe you'll just find a bunch of spaghetti code that will make you want to pull your hair out. Either way, it's sure to be a wild ride!
 
-
-<p align="left">
   <img width="200px" src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif" alt="Pudzian"></img>
   <img width="200px" src="https://media.tenor.com/x18mzpY1SvIAAAAd/tom-platz-bodybuilder.gif" alt="Tom Platz"></img>
 
-</p>
