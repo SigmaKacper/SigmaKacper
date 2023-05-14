@@ -1,4 +1,4 @@
-# Kacper Wojtkowski 🏋️‍♂️👨‍🎓
+### Kacper Wojtkowski 🏋️‍♂️👨‍🎓
 
 **`
 Programer 
@@ -12,7 +12,7 @@ And let's not forget your love for Arduino. Ah, the smell of freshly-baked code 
 
 But hey, don't take my word for it. Why don't you go ahead and check out Kacper GitHub profile yourself? Who knows, you might just find something that will make you laugh, cry, or even change your life forever. Or maybe you'll just find a bunch of spaghetti code that will make you want to pull your hair out. Either way, it's sure to be a wild ride!
 
-<h3>🧰 Frameworks and Libraries</h3>
+### Language 🧰
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
