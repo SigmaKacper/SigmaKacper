@@ -15,5 +15,5 @@ But hey, don't take my word for it. Why don't you go ahead and check out [SigmaK
 
 <p align="center">
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;
 </p>
