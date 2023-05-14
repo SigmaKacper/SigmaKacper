@@ -6,7 +6,7 @@ if( C++ && Arduino && Woman)
    std::cout << " Marry me ";
 `**
 
-<p style="text-align: center;">
+<p text-align="center">
   <img width="100px" src="https://i.imgur.com/0dG2g3t.png"></img>
   <span style="color: #8b008b;">SpookyDude#9235</span>
 </p>
