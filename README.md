@@ -14,7 +14,7 @@ But hey, don't take my word for it. Why don't you go ahead and check out [SigmaK
 
 
 <p align="left">
-  <img src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif" alt="Pudzian"></img>
-  <img src="https://media.tenor.com/x18mzpY1SvIAAAAd/tom-platz-bodybuilder.gif" alt="Tom Platz"></img>
+  <img width="200px" src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif" alt="Pudzian"></img>
+  <img width="200px" src="https://media.tenor.com/x18mzpY1SvIAAAAd/tom-platz-bodybuilder.gif" alt="Tom Platz"></img>
 
 </p>
