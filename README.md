@@ -23,7 +23,7 @@ But hey, don't take my word for it. Why don't you go ahead and check out Kacper 
 <br />
 
 #
-   
+   <p text-align="center">
   <img width="350px" alt="TomPlatz" src="https://thumbs.gfycat.com/AromaticObviousAddax-size_restricted.gif"><img>
   <img width="359px" alt="Pudzian" src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif"><img>
-  
+   </p>
