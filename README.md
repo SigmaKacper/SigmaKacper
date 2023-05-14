@@ -14,5 +14,5 @@ But hey, don't take my word for it. Why don't you go ahead and check out [SigmaK
 
 
 <p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://youtu.be/8fulA0RGzDU"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><video src="https://i.imgur.com/21n4KwD.mp4"></video></a>
 </p>
