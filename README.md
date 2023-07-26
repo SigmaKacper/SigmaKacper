@@ -6,16 +6,16 @@ if( me )
    std::cout << " Sigma ";
 `**
 
-Hi kurwa, welcome at my profile.
+##Hi kurwa, welcome at my profile.
 Here is some shitty codes I write d-_-b
 
 Basically I wrote some arduino code but it doesn't matter.
 I make little games and take the experience by doing this.
 
-Only pure C++
+####Only pure C++
 
 ---
-**I love Jesus and Zyzz. Hope <3**
+#**I love Jesus and Zyzz. Hope <3**
 
 
 
