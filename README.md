@@ -5,7 +5,7 @@
 #### Only pure C++
 
 ---
-# **I love Jesus and Zyzz. Hope <3**
+# **God is good**
 
 
 
