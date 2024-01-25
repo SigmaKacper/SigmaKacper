@@ -1,10 +1,4 @@
-# Kacper Wojtkowski 🏋️‍♂️👨‍🎓
-
-**`
-Programer 
-if( me )
-   std::cout << " Sigma ";
-`**
+# Kacper Wojtkowski
 
 ## Hi kurwa, welcome.
 
