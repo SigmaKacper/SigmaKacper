@@ -21,5 +21,5 @@
 <br />
 
 #
-  <img width="350px" alt="TomPlatz" src="https://thumbs.gfycat.com/AromaticObviousAddax-size_restricted.gif"><img>
+  <img width="350px" alt="TomPlatz" src="https://usagif.com/wp-content/uploads/gify/40-jesus-blessings-usagif.gif"><img>
   <img width="359px" alt="Pudzian" src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif"><img>
