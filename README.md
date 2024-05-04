@@ -22,5 +22,5 @@
 
 #
   <img width="359px" alt="Pudzian" src="https://media.tenor.com/Y1YXYRjap3YAAAAd/pudzian-polska.gif"><img>
-  #Me when someone writes in a language other than C++ 
-  <img width="350px" alt="Baldwin IV" src="![image](https://github.com/SigmaKacper/SigmaKacper/assets/103778834/e7a6812a-d7c8-46c9-8c1b-f40d30cb0564)"><img>
+  # Me when someone writes in a language other than C++ 
+  <img width="350px" alt="Baldwin IV" src="https://64.media.tumblr.com/106fea785788a511e817c7881f8aa177/2cb3e5d4d5cf58d7-9d/s1280x1920/40fa4f126dd9a58f606f6cc7cfb5260d029ee07d.gif"><img>
